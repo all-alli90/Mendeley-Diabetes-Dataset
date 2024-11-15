@@ -4,6 +4,7 @@ The aim of this project is to combine the strength of three machine learning alg
 
 <br />
 
+
 # **Content** #
 
 ### Mendeley Diabetes Dataset ###
@@ -12,18 +13,17 @@ The aim of this project is to combine the strength of three machine learning alg
   - Each patient is classified as either Diabetic, Non-Diabetic, or Pre-Diabetic.
   - Link: https://data.mendeley.com/datasets/wj9rwkp9c2/1 
 
-<br />
 
 ### Initial Analysis and Code ###
   - Cleaning and exploration of dataset
   - Identifying trends, patterns and correlation of the features 
 
-<br />
 
 ### Initial Result and Code ### 
   -  Initial outcome from creating the second level model 
 
 <br />
+
 
 # **Project Stages** #
 
