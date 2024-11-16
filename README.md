@@ -17,7 +17,9 @@ The aim of this project is to combine the strength of three machine learning alg
 
 ### Predictive Modeling of Diabetes Using Decision Trees, K-Nearest Neighbour and Logistic Regression ###
 - Stacking esemble model that aims to accuractely classify the stages of diabetes using the three machines learning classifers
-
+  - Jupyter Notebook (IPYNB) file 
+  - PDF file
+    
 <br />
 
 
