@@ -13,14 +13,10 @@ The aim of this project is to combine the strength of three machine learning alg
 - Each patient is classified as either Diabetic, Non-Diabetic, or Pre-Diabetic.
 - Link: https://data.mendeley.com/datasets/wj9rwkp9c2/1 
 
+<br />
 
-### Initial Analysis and Code ###
-- Cleaning and exploration of dataset
-- Identifying trends, patterns and correlation of the features 
-
-
-### Initial Result and Code ### 
-- Initial outcome from creating the second level model 
+### Predictive Modeling of Diabetes Using Decision Trees, K-Nearest Neighbour and Logistic Regression ###
+- Stacking esemble model that aims to accuractely classify the stages of diabetes using the three machines learning classifers
 
 <br />
 
