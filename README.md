@@ -47,4 +47,5 @@ The aim of this project is to combine the strength of three machine learning alg
 
 ### Stage 5: Model Evaluation
 - Base Models Evaluation
+- Base Model with Cross Evalidation Evaluation
 - Second Level Model Evaluation
