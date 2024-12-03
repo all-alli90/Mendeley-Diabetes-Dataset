@@ -15,8 +15,15 @@ The aim of this project is to combine the strength of three machine learning alg
 
 <br />
 
+### Predictive Modeling of Diabetes: A Machine Learning Approach ###
+- Final Results for Stacking esemble model that aims to accuractely classify the stages of diabetes using the three machines learning classifers
+  - Jupyter Notebook (IPYNB) file 
+  - PDF file
+
+<br />
+
 ### Predictive Modeling of Diabetes Using Decision Trees, K-Nearest Neighbour and Logistic Regression ###
-- Stacking esemble model that aims to accuractely classify the stages of diabetes using the three machines learning classifers
+- Initial Code and Resilts for Stacking esemble model that aims to accuractely classify the stages of diabetes using the three machines learning classifers
   - Jupyter Notebook (IPYNB) file 
   - PDF file
     
